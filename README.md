@@ -1,5 +1,5 @@
 
-[![diploy](https://www.herokucdn.com/deploy/button svg)](https://heroku.com/deploy?template=https://github.com/namynam63/Link-Bypasser-Bot)
+[![diploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/namynam63/Link-Bypasser-Bot)
 
 
 
